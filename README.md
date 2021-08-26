@@ -1,4 +1,4 @@
-# Boreas
+# Imageamento Digital
 import PySimpleGUI as sg
 import cv2 as cv
 
